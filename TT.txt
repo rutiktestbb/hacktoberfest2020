@@ -1,0 +1,28 @@
+Time table:
+
+
+
+        09:00     : Wake UP
+    09:00 - 10:00 : Get Ready
+    10:00 - 01:00 : Online College Lectures
+    01:00 - 02:00 : Lunch
+    02:00 - 04:00 : WORK!
+    04:00 - 06:00 : Tea and Watering Home
+    06:00 - 08:00 : WORK!
+    08:00 - 09:30 : Dinner
+    09:30 - 11:00 : WORK!
+    11:00 - 12:00 : TP
+        12:00     : Sleep
+   
+        
+        
+        
+TEMP TT
+
+
+        09:00     : Wake UP
+    09:15 - 03:30 : TRADING + LECTURES
+    03:30 - 04:30 : BREAK
+    05:00 - 11:00 : WORDPRESS
+    11:00 - 12:00 : TP
+        12:00     : Sleep      
